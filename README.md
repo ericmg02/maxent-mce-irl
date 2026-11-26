@@ -1,1 +1,1 @@
-# maxent-mce-irl
+# Projet AIHM : maxent-mce-irl
